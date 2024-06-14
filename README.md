@@ -1,1 +1,1 @@
-# Conexion a base de daros a mysql con apache tomcat
+# Conexion a base de datos a mysql con apache tomcat
